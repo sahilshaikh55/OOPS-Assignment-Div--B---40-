@@ -1,5 +1,5 @@
 # Java-lab-assignment
-# NAME: Shaikh Sahil Hafij
+# NAME: SHAIKH SAHIL HAFIJ
 # PRN: 1132220608
 # DIV: B
 # Roll No: 40
