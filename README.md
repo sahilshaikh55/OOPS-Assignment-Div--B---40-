@@ -1,11 +1,11 @@
 # Java-lab-assignment-40
 ........................
-##NAME:Shaikh Sahil Hafij
-###PRN:1132220608
-###DIV:B
-###Roll No:40
+# NAME:Shaikh Sahil Hafij
+# PRN:1132220608
+# DIV:B
+# Roll No:40
 .....................
-#code:
+# code:
 
 ![Screenshot 1 java](https://user-images.githubusercontent.com/98039768/203070541-021e97cf-e558-4c1d-8c53-0e117519d178.png)
 ![Screenshot 2 java](https://user-images.githubusercontent.com/98039768/203070547-7d48a49b-9195-4cbc-af9f-a2a961dfc1c9.png)
@@ -18,7 +18,7 @@
 ![Screenshot 9 java](https://user-images.githubusercontent.com/98039768/203070609-773ecf26-722e-43d5-b400-386eb8736b86.png)
 ![Screenshot 10 java](https://user-images.githubusercontent.com/98039768/203070614-0fe0baf6-f436-4cc0-99ef-83fe2927803d.png)
 
-#output:
+# output:
 
 ![output 1](https://user-images.githubusercontent.com/98039768/203070621-0bd60dc2-223d-4310-8d06-3b932626587a.jpg)
 ![output 2](https://user-images.githubusercontent.com/98039768/203070532-c85858e7-81f0-4914-9905-b99e23aafa61.jpg)
