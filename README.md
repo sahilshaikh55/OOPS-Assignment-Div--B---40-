@@ -1,10 +1,9 @@
 # Java-lab-assignment
-# ........................
 # NAME: Shaikh Sahil Hafij
 # PRN: 1132220608
 # DIV: B
 # Roll No: 40
-# .....................
+
 # code:
 
 ![Screenshot 1 java](https://user-images.githubusercontent.com/98039768/203070541-021e97cf-e558-4c1d-8c53-0e117519d178.png)
